@@ -1,0 +1,15 @@
+.cart {
+  border: none;
+  background: transparent;
+  position: relative;
+}
+
+.cart strong {
+  position: absolute;
+  top: -7px;
+  border-radius: 50%;
+  width: 20px;
+  border: 1px solid #000;
+  background: #000;
+  color: #fff;
+}

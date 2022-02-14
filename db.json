@@ -1,0 +1,34 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "price": "12.000,00",
+      "qtd": 5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell",
+      "price": "9.2000,00",
+      "qtd": 2
+    },
+    {
+      "id": 3,
+      "name": "GTX 1050",
+      "price": "3.2000,00",
+      "qtd": 1
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air",
+      "price": "9.2000,00",
+      "qtd": 2
+    },
+    {
+      "id": 5,
+      "name": "MacBook ThunderBolt",
+      "price": "5.2000,00",
+      "qtd": 0
+    }
+  ]
+}
